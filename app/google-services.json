@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222423311066",
+    "project_id": "talktome-4032c",
+    "storage_bucket": "talktome-4032c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222423311066:android:66c6df8b7430e328f3fbe3",
+        "android_client_info": {
+          "package_name": "com.owllabs.talktomephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222423311066-psprbi21iea4es9avf2d0sv0rdckekp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR_VCk38lSmB8Vgv8yAE0eyR5PvqZg2iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222423311066-psprbi21iea4es9avf2d0sv0rdckekp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
